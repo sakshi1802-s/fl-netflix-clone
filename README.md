@@ -38,3 +38,6 @@ Few screenshots of how it appears!
 Sign In Page
 ![signin](https://github.com/user-attachments/assets/3814f9b9-b8c6-44b0-9401-a0f176f2b159)
 
+Home page
+![Home](https://github.com/user-attachments/assets/b896a445-2610-4036-896c-8d03ac23692a)
+

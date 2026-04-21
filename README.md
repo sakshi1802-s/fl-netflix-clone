@@ -32,3 +32,7 @@ Learning
 -Built full-stack app using Next.js
 - Integrated authentication and APIs
 - Worked on debugging real-world issues
+
+Few screenshots of how it appears!
+![home](https://github.com/user-attachments/assets/3814f9b9-b8c6-44b0-9401-a0f176f2b159)
+

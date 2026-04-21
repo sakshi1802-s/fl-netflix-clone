@@ -14,7 +14,7 @@ Tech Stack
 - Backend: Next.js API routes
 - Authentication: NextAuth
 - Database: MongoDB
-- AI: OpenAI API
+- AI: Gemini API
 
 ⚠️ Current Status
 * Core platform and UI are working
